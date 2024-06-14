@@ -11,7 +11,7 @@ signing {
 }
 
 indra {
-    github("aecsocket", rootProject.name)
+    github("stephengold", rootProject.name)
     mitLicense()
 
     configurePublications {

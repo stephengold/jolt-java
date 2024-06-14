@@ -1,10 +1,6 @@
 <div align="center">
 
 # JoltJava
-[![License](https://img.shields.io/github/license/aecsocket/jolt-java)](LICENSE)
-[![CI](https://img.shields.io/github/actions/workflow/status/aecsocket/jolt-java/build.yml)](https://github.com/aecsocket/jolt-java/actions/workflows/build.yml)
-![Release](https://img.shields.io/maven-central/v/io.github.aecsocket/jolt-java?label=release)
-![Snapshot](https://img.shields.io/nexus/s/io.github.aecsocket/jolt-java?label=snapshot&server=https%3A%2F%2Fs01.oss.sonatype.org)
 
 Java bindings for [JoltPhysics](https://github.com/jrouwe/JoltPhysics) with C bindings based on
 [zig-gamedev JoltPhysicsC](https://github.com/michal-z/zig-gamedev/tree/main/libs/zphysics/libs)
@@ -92,7 +88,7 @@ Jolt.registerTypes();
 On Windows, you need [Ninja](https://ninja-build.org/manual.html) installed.
 
 ```sh
-git clone https://github.com/aecsocket/jolt-java
+git clone https://github.com/stephengold/jolt-java
 cd jolt-java
 ./gradlew build
 ```
