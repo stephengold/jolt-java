@@ -3,7 +3,7 @@ plugins {
     id("java-conventions")
 }
 
-group = "io.github.aecsocket"
+group = "com.github.stephengold"
 version = "0.1.0-SNAPSHOT"
 description = "Java bindings for JoltPhysics"
 
