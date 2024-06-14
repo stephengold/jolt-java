@@ -56,10 +56,10 @@ repositories {
 }
 
 dependencies {
-    implementation("com.github.stephengold", "jolt-java", "0.1.0-SNAPSHOT")
-    runtimeOnly("com.github.stephengold", "jolt-java-natives-linux-x86", "0.1.0-SNAPSHOT")
-    runtimeOnly("com.github.stephengold", "jolt-java-natives-windows-x86", "0.1.0-SNAPSHOT")
-    runtimeOnly("com.github.stephengold", "jolt-java-natives-macos-x86", "0.1.0-SNAPSHOT")
+    implementation("com.github.stephengold", "jolt-java", "0.1.0")
+    runtimeOnly("com.github.stephengold", "jolt-java-natives-linux-x86", "0.1.0")
+    runtimeOnly("com.github.stephengold", "jolt-java-natives-windows-x86", "0.1.0")
+    runtimeOnly("com.github.stephengold", "jolt-java-natives-macos-x86", "0.1.0")
 }
 ```
 

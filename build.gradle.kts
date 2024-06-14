@@ -4,7 +4,7 @@ plugins {
 }
 
 group = "com.github.stephengold"
-version = "0.1.0-SNAPSHOT"
+version = "0.1.0"
 description = "Java bindings for JoltPhysics"
 
 dependencies {
