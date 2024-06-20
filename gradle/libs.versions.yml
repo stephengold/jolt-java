@@ -7,7 +7,7 @@ versions:
   jextract: 0.5.0
   findBugs: 3.0.2
   cpuFeaturesJava: 2.0.1
-  jUnit: 5.9.2
+  jUnit: 5.10.2
 
 dependencies:
   indraCommon: { group: net.kyori, name: indra-common, version: { ref: indra } }
