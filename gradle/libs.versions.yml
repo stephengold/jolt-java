@@ -4,7 +4,7 @@ metadata:
 
 versions:
   indra: 3.0.1
-  jextract: 0.3.2
+  jextract: 0.5.0
   findBugs: 3.0.2
   cpuFeaturesJava: 2.0.1
   jUnit: 5.9.2
