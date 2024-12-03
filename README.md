@@ -7,7 +7,11 @@ Java bindings for [JoltPhysics](https://github.com/jrouwe/JoltPhysics) with C bi
 
 </div>
 
-These bindings are still feature-incomplete and unstable.
+# This project is no longer being developed.
+
+# The bindings are feature-incomplete and unstable.
+
+# Please use [jolt-jni](https://github.com/stephengold/jolt-jni) instead.
 
 ## Coverage
 
